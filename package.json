@@ -1,0 +1,16 @@
+{
+  "name": "liff-ts-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@line/liff": "2.22.0"
+  },
+  "devDependencies": {
+    "typescript": "5.0.4",
+    "vite": "4.3.8"
+  }
+}
