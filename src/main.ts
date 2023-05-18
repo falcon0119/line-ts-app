@@ -9,7 +9,7 @@ liff
   })
   .then(() => {
     app.innerHTML = `
-    <h1>create-liff-app</h1>
+    <h1>create-liff-app=tbt</h1>
     <p>LIFF init succeeded.</p>
     <a href="https://developers.line.biz/ja/docs/liff/" target="_blank" rel="noreferrer">
       LIFF Documentation
@@ -18,7 +18,7 @@ liff
   })
   .catch((error: Error) => {
     app.innerHTML = `
-    <h1>create-liff-app</h1>
+    <h1>create-liff-app-tbt</h1>
     <p>LIFF init failed.</p>
     <p><code>${error}</code></p>
     <a href="https://developers.line.biz/ja/docs/liff/" target="_blank" rel="noreferrer">
